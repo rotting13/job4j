@@ -1,9 +1,9 @@
 package ru.job4j;
 
 /**
- * Calculate.
+ *Calculate.
  *
- * @author Petr Arsentev (parsentev@yandex.ru)
+ * @author Andrey Lantukh (andrey_lantuh@mail.ru)
  * @version $Id$
  * @since 0.1
  */
